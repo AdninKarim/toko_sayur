@@ -1,0 +1,41 @@
+.clr1{
+	background-color: #8FA31E;
+}
+
+.clr2{
+	background-color: #C6D870;
+}
+
+.clr3{
+	background-color: #EFF5D2;
+}
+
+.banner-produk{
+	height: 45vh;
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/banner/banner.jpg');
+	background-position: 50% 45%;
+}
+
+.list-group a{
+	text-decoration: none;
+}
+
+.link-text{
+	text-decoration: none;
+}
+
+.content-subscribe{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.text-harga{
+	font-size: 22px;
+	color: #8FA31E;	
+}
+
+.produk-terkait-image{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	object-position: center;
+}
